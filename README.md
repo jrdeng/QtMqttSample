@@ -1,6 +1,6 @@
 # Qt MQTT sample
 
-show how to use qmmqtt ( https://github.com/qt/qtmqtt )
+show how to use qtmqtt ( https://github.com/qt/qtmqtt )
 
 this sample is tested on Windows 10 with Qt 5.12.7(VS2017 x64).
 
