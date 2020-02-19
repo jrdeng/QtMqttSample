@@ -19,6 +19,7 @@ then build & run.
 ## how to build qtmqtt
 
     git clone git@github.com:qt/qtmqtt.git
+    cd qtmqtt
     # checkout tag for specified version
     mkdir build
     cd build
